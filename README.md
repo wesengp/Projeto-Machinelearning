@@ -1,3 +1,4 @@
-# Seletivo
-## Resoluções do processo seletivo em JavaScript
+# Seletivo Bazico
+## Resoluções do desafio da BAZICO
+
 
