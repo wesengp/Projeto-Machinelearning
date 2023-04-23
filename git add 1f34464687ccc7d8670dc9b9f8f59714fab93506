@@ -1,0 +1,65 @@
+[33mcommit 1f34464687ccc7d8670dc9b9f8f59714fab93506[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sun Apr 23 14:46:46 2023 -0300
+
+    Update README.md
+
+[33mcommit 657a70aec7374d0b608dfec397504aa477d0e084[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sun Apr 23 14:45:51 2023 -0300
+
+    Delete somak.js
+
+[33mcommit c114a254a94ddd8d38e605ad014f96807eda33e6[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sun Apr 23 14:45:37 2023 -0300
+
+    Delete package.json
+
+[33mcommit 0d40b84219adacf02c9146fb4da8a1c4cead783b[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sun Apr 23 14:45:14 2023 -0300
+
+    Delete invertestr.js
+
+[33mcommit 894be4c25e58040b160eb5a6da084454642b1684[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sun Apr 23 14:45:02 2023 -0300
+
+    Delete fibonacci.js
+
+[33mcommit c888830a2f584999d1ec157416d1c7c74de7d853[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sun Apr 23 14:01:42 2023 -0300
+
+    Aprimorando a análise exploratória dos dados e aplicando o modelo de regressão linear para avaliar a relação com a frequência. Realizado teste do modelo.
+
+[33mcommit 66b85cf471bd6078325cfa69d36aa4c1d102cd84[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Sat Apr 22 19:46:35 2023 -0300
+
+    Feat: Incluindo o cálculo e análise da frequência do DataFrame para estruturar um modelo comparativo utilizando a frequência como fator de recompra
+
+[33mcommit 39f3852ae269290f3068bc1ee3d62d609faa2ede[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Fri Apr 21 20:16:26 2023 -0300
+
+    Importação de bibliotecas necessárias, analise de histórico de compras, frequência, aplicação do modelo de máquina, listagem dos 100 possíveis clientes
+
+[33mcommit e3febe57ec4223e786ba5749bd37f780e55ad48e[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Fri Mar 17 19:39:17 2023 -0300
+
+    Update README.md
+
+[33mcommit 16d97fb48c48fe96d951616c752e2acfb5985d55[m
+Author: Wesley_ <100776631+wesengp@users.noreply.github.com>
+Date:   Fri Mar 17 19:38:38 2023 -0300
+
+    Create README.md
+
+[33mcommit 242b08118d7c282395c4bb0ecf2b1b6e212b4ecc[m
+Author: Wesley <Wesleyfonsecaengp@gmail.com>
+Date:   Fri Mar 17 19:34:34 2023 -0300
+
+    Respostas do Processo seletivo em JS
