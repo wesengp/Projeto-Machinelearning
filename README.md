@@ -4,12 +4,12 @@
 # Instruções 
 
 - Abra o arquivo Desafio_Bazico.ipynb
-- Dentro do Está toda visualização do código juntamente com o botão Open in colab ao clicar será direcionado ao google colab onde estará todo código 
-- No menu superior vá em ambiente de execução e clique em executar tudo para evitar problemas em executar pequenas partes do código
-- Ao clicar no arquivo Desafio_Bazico.ipynb também é possível de visualizar todos os commits feitos no projeto
-- O BaziRelatório está disponivel em PDF dentro dele temos alguns BaziDados do processo 😂😂😂
+- Dentro do arquivo está toda visualização do código juntamente com o botão Open in colab que ao clicar será direcionado ao google colab onde estará todo o código executável
+- No Menu superior vá em ambiente de execução e clique em 'executar tudo' ou o atalho 'Ctrl + 9' para evitar problemas em executar pequenas partes do código
+- Ao clicar no arquivo Desafio_Bazico.ipynb também é possível visualizar todos os históricos dos commits feitos no projeto
+- O BaziRelatório está disponivel em PDF e dentro dele temos alguns BaziDados do processo 😂😂😂
 
-Ps: Amei usar Bazi em tudo acho que é a febre do Bazi🦟quito ❤️
+Ps: Amei usar Bazi em tudo, acho que é a febre do Bazi🦟quito ❤️
 
 # Referencias
 
